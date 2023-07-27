@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Movies_Recommender"
+    ]
+}
